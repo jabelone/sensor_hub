@@ -9,12 +9,12 @@ const int WINDOW_PIN = D6;
 
 // WiFi Settings
 const char* ssid = "SkyNet";
-const char* password = "225261007622";
+const char* password = "12345678";
 
 // MQTT Settings
 const char* mqttServer = "192.168.0.42";
 const char*  mqttUser = "sensor";
-const char* mqttPass = "F20TKPWI9wrqYTyh";
+const char* mqttPass = "stuff";
 
 //SensorHub Settings
 const String hubName = "livingroom";
